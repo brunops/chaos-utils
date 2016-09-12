@@ -1,0 +1,11 @@
+{
+  "name": "chaos-utils",
+  "version": "1.0.0",
+  "description": "chaos utils functions - from \"playing with chaos\" book",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "brunops",
+  "license": "MIT"
+}
