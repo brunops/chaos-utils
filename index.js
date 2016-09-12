@@ -25,7 +25,7 @@ const chaos = {
     const win = window.open('', 'Canvas Image')
     const src = this.canvas.toDataURL('image/png')
 
-    win.document.write(`<img src="${src}" width="${this.width}" height="${this.height}"`)
+    win.document.write(`<img src="${src}" width="${this.width}" height="${this.height}" />`)
   }
 }
 
