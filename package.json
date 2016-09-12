@@ -1,6 +1,6 @@
 {
   "name": "chaos-utils",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "chaos utils functions - from \"playing with chaos\" book",
   "main": "dist/index.js",
   "scripts": {
